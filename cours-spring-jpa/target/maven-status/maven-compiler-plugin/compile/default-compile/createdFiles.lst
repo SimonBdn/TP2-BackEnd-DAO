@@ -1,0 +1,4 @@
+monprojet/entity/Country.class
+monprojet/dao/CountryRepository.class
+monprojet/WebApp.class
+monprojet/ConsoleApp.class
